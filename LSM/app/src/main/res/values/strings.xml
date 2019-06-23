@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">La voz de Sofi</string>
+    <string name="start">Start</string>
+    <string name="menulsm">Translate ASL</string>
+    <string name="menutext">Translate text</string>
+    <string name="t">Translate</string>
+
+    <string name="instr1">Capture the user who communicates in sign language</string>
+    <string name="instr2">Write your message to translate in LSM</string>
+
+    <string name="app_dialogo1">We generate more inclusion and expand communication</string>
+    <string name="app_dialogo2">Translate the Mexican sign language</string>
+    <string name="app_dialogo3">Learn autonomously </string>
+    <string name="app_dialogo34">Expand the communication</string>
+
+    <string name="hola">Hello</string>
+    <string name="comoest">how are you</string>
+    <string name="bien">fine</string>
+    <string name="bienytu">fine and you</string>
+
+    <string name="cockie">galleta</string>
+    <string name="family">familia</string>
+    <string name="mom">mamá</string>
+    <string name="dad">papá</string>
+    <string name="grandma">abuela</string>
+    <string name="sister">hermana</string>
+    <string name="brother">hermano</string>
+    <string name="title_activity_translate_lsm">translateLSM</string>
+    <string name="title_activity_translatetext">Translatetext</string>
+
+</resources>

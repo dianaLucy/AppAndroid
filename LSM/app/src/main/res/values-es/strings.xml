@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">La voz de Sofi</string>
+    <string name="start">Iniciar</string>
+    <string name="menulsm">Traducir LSM</string>
+    <string name="menutext">Traducir texto</string>
+
+    <string name="t">Traducir</string>
+
+    <string name="instr1">Capta al usuario que se comunica en lenguaje de señas</string>
+    <string name="instr2">Escribe tu mensaje para traducirlo en LSM</string>
+    <string name="app_dialogo1">Generamos más inclusión y expandimos la comunicación</string>
+    <string name="app_dialogo2">Traduce el lenguaje de señas mexicana</string>
+    <string name="app_dialogo3">Aprende de manera autónoma </string>
+    <string name="app_dialogo34">Expandamos la comunicación</string>
+    <string name="hola">hola</string>
+    <string name="comoest">como estas</string>
+    <string name="bien">bien</string>
+    <string name="bienytu">bien y tu </string>
+    <string name="cockie">galleta</string>
+    <string name="family">familia</string>
+    <string name="mom">mamá</string>
+    <string name="dad">papá</string>
+    <string name="grandma">abuela</string>
+    <string name="sister">hermana</string>
+    <string name="brother">hermano</string>
+</resources>
